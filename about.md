@@ -12,29 +12,29 @@ permalink: /about/
 #=> 'Hi, thoughts => PRODUCT'.
 {% endhighlight %}
 
-# 工具
+# 常用工具
 
-swift , java , node
+- swift , java , node
 
-cocoapods , spring boot 
+- cocoapods , spring boot 
 
-mysql , oracle , postgresql 
+- mysql , oracle , postgresql 
 
-activiti , drools 
+- activiti , drools 
 
-openmq , rabbitmq , mule 
+- openmq , rabbitmq , mule 
 
-docker , k8s
+- docker , k8s
 
-hyperledger , ethereum
+- hyperledger , ethereum
 
-xmind , astash , project , axure  
+- xmind , astash , project , axure  
 
-# 曾经的职责
+# 曾经职责
 
-长期负责过 某公司的 内部信息化工作。
+- 长期负责过 某公司的 内部信息化工作。
 
-负责过多个 预算千万 级别的 项目。
+- 负责过多个 预算千万 级别的 项目。
 
 
 
