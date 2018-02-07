@@ -8,6 +8,8 @@ permalink: /about/
 
 有点想法的软件工程师
 
+Keep doing !!!
+
 {% highlight ruby %}
 #=> 'Hi, thoughts => PRODUCT'.
 {% endhighlight %}
