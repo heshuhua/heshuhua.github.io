@@ -14,7 +14,7 @@ Keep doing !!!
 #=> 'Hi, thoughts => PRODUCT'.
 {% endhighlight %}
 
-# 常用工具
+# 项目工具
 
 - swift , java , node
 
@@ -27,6 +27,8 @@ Keep doing !!!
 - openmq , rabbitmq , mule 
 
 - docker , k8s
+
+- pentaho kettle , jasper , qlik sense 
 
 - hyperledger , ethereum
 
