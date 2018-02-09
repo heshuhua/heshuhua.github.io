@@ -16,9 +16,9 @@ Keep doing !!!
 
 # 项目工具
 
-- swift , java , node
+- swift(进行中) , java , node
 
-- cocoapods , spring boot , spring cloud（未有落地项目） 
+- cocoapods（进行中） , spring boot , spring cloud（未有落地项目） 
 
 - mysql , oracle , postgresql（未有落地项目） 
 
