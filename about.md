@@ -18,9 +18,9 @@ Keep doing !!!
 
 - swift , java , node
 
-- cocoapods , spring boot 
+- cocoapods , spring boot , spring cloud（未有落地项目） 
 
-- mysql , oracle , postgresql 
+- mysql , oracle , postgresql（未有落地项目） 
 
 - activiti , drools 
 
@@ -30,7 +30,7 @@ Keep doing !!!
 
 - pentaho kettle , jasper , qlik sense 
 
-- hyperledger , ethereum
+- hyperledger（未有落地项目） , ethereum（未有落地项目）
 
 - xmind , astash , project , axure  
 
