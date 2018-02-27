@@ -17,7 +17,7 @@ Keep doing !!!
 {% endhighlight %}
 
 
-# 项目工具
+# 工具箱
 
 - swift(进行中) , java , node
 
@@ -37,7 +37,7 @@ Keep doing !!!
 
 - xmind , astash , project , axure  
 
-# 曾经职责
+# 经历
 
 - 长期负责过 某公司的 内部信息化工作。
 
