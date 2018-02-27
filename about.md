@@ -5,6 +5,8 @@ permalink: /about/
 ---
 
 ### 何树华：
+![微信](/assets/images/wx_icon.png){:height="100px" width="100px"}
+
 
 有点想法的软件工程师
 
@@ -14,21 +16,22 @@ Keep doing !!!
 #=> 'Hi, thoughts => PRODUCT'.
 {% endhighlight %}
 
+
 # 项目工具
 
 - swift(进行中) , java , node
 
-- cocoapods（进行中） , spring boot , spring cloud（未有落地项目） 
+- cocoapods（进行中） , spring boot , spring cloud（未有落地项目）
 
-- mysql , oracle , postgresql（未有落地项目） 
+- mysql , oracle , postgresql（未有落地项目）
 
-- activiti , drools 
+- activiti , drools
 
-- openmq , rabbitmq , mule 
+- openmq , rabbitmq , mule
 
 - docker , k8s
 
-- pentaho kettle , jasper , qlik sense 
+- pentaho kettle , jasper , qlik sense
 
 - hyperledger（未有落地项目） , ethereum（未有落地项目）
 
@@ -40,9 +43,4 @@ Keep doing !!!
 
 - 负责过多个 预算千万 级别的 项目。
 
-- 一直在编码 
-
-
-
-
-
+- 一直在编码
