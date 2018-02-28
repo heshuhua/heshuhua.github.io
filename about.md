@@ -19,8 +19,8 @@ Keep doing !!!
 
 # 工具箱
 
-- xmind , astash , project , axure
-[事例]({% post_url 2018-02-27-开发流程 %})
+- [项目事例]({% post_url 2018-02-27-开发流程 %}) , xmind , astash , project , axure
+
 
 - swift(进行中) , java , node
 
