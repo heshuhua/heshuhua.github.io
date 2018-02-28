@@ -19,6 +19,9 @@ Keep doing !!!
 
 # 工具箱
 
+- xmind , astash , project , axure
+[事例]({% post_url 2018-02-27-开发流程 %})
+
 - swift(进行中) , java , node
 
 - cocoapods（进行中） , spring boot , spring cloud（未有落地项目）
@@ -35,12 +38,11 @@ Keep doing !!!
 
 - hyperledger（未有落地项目） , ethereum（未有落地项目）
 
-- xmind , astash , project , axure  
 
 # 经历
 
 - 长期负责过 某公司的 内部信息化工作。
 
-- 负责过多个 预算千万 级别的 项目。
+- 负责过多个 预算千万 级别的 项目（技术职责）。
 
-- 一直在编码
+- 一直在编码。 从事过测试、开发、项目、架构、部门管理等角色。
