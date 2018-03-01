@@ -22,7 +22,7 @@ Keep doing !!!
 - [项目事例]({% post_url 2018-02-27-开发流程 %}) , xmind , astash , project , axure
 
 
-- swift(进行中) , java , node
+- ![家秘书](/assets/images/homeletdownload.png){:height="100px" width="100px"} , swift(进行中) , java , node
 
 - cocoapods（进行中） , spring boot , spring cloud（未有落地项目）
 
