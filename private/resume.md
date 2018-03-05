@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 简历
-permalink: /resume/
+
+permalink: /private/resume/
 ---
 
 ### 何树华：
