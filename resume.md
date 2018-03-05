@@ -1,21 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 简历
+permalink: /resume/
 ---
 
 ### 何树华：
 ![微信](/assets/images/wx_icon.png){:height="100px" width="100px"}
 
-
-有点想法的软件工程师
-
-Keep doing !!!
-
-{% highlight ruby %}
-#=> 'Hi, thoughts => PRODUCT'.
-{% endhighlight %}
-
+# 项目经验
 
 # 工具箱
 
@@ -37,3 +29,12 @@ Keep doing !!!
 - pentaho kettle , jasper , qlik sense
 
 - hyperledger（未有落地项目） , ethereum（未有落地项目）
+
+
+# 经历
+
+- 长期负责过 某公司的 内部信息化工作。
+
+- 负责过多个 预算千万 级别的 项目（技术职责）。
+
+- 一直在编码。 从事过测试、开发、项目、架构、部门管理等角色。
