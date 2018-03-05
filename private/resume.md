@@ -7,6 +7,7 @@ permalink: /private/resume/
 ![微信](/assets/images/wx_icon.png){:height="100px" width="100px"}
 
 # 项目经验
+丰富的项目经验
 
 # 工具箱
 
