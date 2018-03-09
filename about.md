@@ -7,8 +7,8 @@ permalink: /about/
 ### fanto：
 ![微信](/assets/images/wx_icon.png){:height="100px" width="100px"}
 
-
 有点想法的软件工程师
+
 
 Keep doing !!!
 
@@ -16,6 +16,7 @@ Keep doing !!!
 #=> 'Hi, thoughts => PRODUCT'.
 {% endhighlight %}
 
+***
 
 # 工具箱
 
