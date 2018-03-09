@@ -19,14 +19,16 @@ Keep doing !!!
 
 # 工具箱
 
-- [《项目事例》]({% post_url 2018-02-27-开发流程 %}) , xmind , astash , project , axure
+- [《项目事例》]({% post_url 2018-02-27-开发流程 %}) , xmind , astash , project , axure , [markdown]({% post_url 2018-03-09-Markdown专题 %}), [jekyll]({% post_url 2018-02-27-Jekyll专题 %})
 
 
 - [《产品事例-appstore》](https://itunes.apple.com/cn/app/%E5%AE%B6%E7%A7%98%E4%B9%A6/id1352891324?mt=8 ), swift , java , node
 
-- cocoapods（进行中） , spring boot , spring cloud（未有落地项目）
+- cocoapods, [spring boot]({% post_url 2018-03-09-spring-boot专题 %}) , spring cloud
 
-- mysql , oracle , postgresql（未有落地项目）
+- [coreml]({% post_url 2018-02-07-coreml专题 %})
+
+- mysql , oracle , postgresql
 
 - activiti , drools
 
@@ -36,4 +38,4 @@ Keep doing !!!
 
 - pentaho kettle , jasper , qlik sense
 
-- hyperledger（未有落地项目） , ethereum（未有落地项目）
+- hyperledger, ethereum
