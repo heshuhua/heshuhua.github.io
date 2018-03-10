@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+math: true 
 permalink: /about/
 ---
 
