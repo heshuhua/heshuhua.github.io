@@ -1,9 +1,11 @@
 ---
 layout: page
 title: About
-math: true 
+math: true
 permalink: /about/
 ---
+
+{% include mathjax.html %}
 
 ### fanto：
 ![微信](/assets/images/wx_icon.png){:height="100px" width="100px"}
