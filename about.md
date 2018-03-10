@@ -9,8 +9,7 @@ permalink: /about/
 
 有点想法的软件工程师
 
-
-Keep doing !!!
+$$  1.02^{365}=1377.4 \over 0.99^{365}=0.03 $$
 
 {% highlight ruby %}
 #=> 'Hi, thoughts => PRODUCT'.
