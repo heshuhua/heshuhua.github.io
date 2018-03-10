@@ -5,12 +5,14 @@ math: true
 permalink: /about/
 ---
 
-{% include mathjax.html %}
+{% if page.math != false %}
+ {% include mathjax.html %}
+{% endif %}
 
 ### fanto：
 ![微信](/assets/images/wx_icon.png){:height="100px" width="100px"}
 
-有点想法的软件工程师
+曾从事 自动化测试[^1]，开发[^2]，项目管理[^3]，架构[^4]，售前技术[^5]，技术负责人[^6] 等岗位。
 
 
 {% highlight ruby %}
@@ -44,3 +46,12 @@ $$  1.02^{365}=1377.4 \over 0.99^{365}=0.03 $$
 - pentaho kettle , jasper , qlik sense
 
 - hyperledger, ethereum
+
+
+### 项目
+[^1]:Webshpere Portal 自动化测试
+[^2]:自动化开发框架 activti + hibernate
+[^3]:费用补偿系统
+[^4]:Paas平台
+[^5]:多终端自动化测试平台开发
+[^6]:多业务系统 
