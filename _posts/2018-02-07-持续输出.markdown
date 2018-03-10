@@ -2,10 +2,9 @@
 layout: post
 title:  持续输出
 date:   2018-02-07 09:57:45 +0800
-categories: blog
+categories: engineering
 ---
 
 
 
 看的见的工作结果，对别人重要，对自己更重要 ！
-
