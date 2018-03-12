@@ -15,8 +15,15 @@ permalink: /about/
 曾从事 测试[^1]，开发[^2]，项目管理[^3]，架构[^4]，技术负责人[^5] 等岗位。
 
 
-{% highlight ruby %}
-#=> 'Hi, thoughts => PRODUCT'.
+{% highlight swift %}
+func saySomethingToWorld(who:String ,num :Int ,say:(_ :String)->Void ) {
+    for _ in 0..<num {
+        say(who)
+    }
+}
+saySomethingToWorld(who: "fanto", num: 3) { (who) in
+    print("Hi," + who + " , focus on building things rather than talking it.")
+}
 {% endhighlight %}
 
 $$  1.02^{365}=1377.4 \over 0.99^{365}=0.03 $$
@@ -53,4 +60,4 @@ $$  1.02^{365}=1377.4 \over 0.99^{365}=0.03 $$
 [^2]:开发：自动化开发框架OAF-相当于：activti + hibernate，测试缺陷系统开发，hp打印机字体驱动软件程序，Flex+lifecycle审批业务系统开发。
 [^3]:项目管理及开发：费用补偿系统，行政办公审批系统，人力招聘候管理系统 ，工资考勤系统， 等系统。
 [^4]:架构及开发：Paas平台，多终端自动化测试平台开发，某互联网O2O业务系统，信息交换平台软件。
-[^5]:技术负责人及开发：技术部门管理（30人左右），负责含有多语言技术，多终端技术的研发部门的研发生产和人员管理。
+[^5]:技术负责人及开发：技术部门管理（30人左右），负责含有多语言技术、多终端技术的研发部门的研发生产和人员管理。
