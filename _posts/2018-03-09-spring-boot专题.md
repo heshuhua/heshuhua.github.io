@@ -5,7 +5,10 @@ date:   2018-03-09 13:45:00 +0800
 categories: skill
 ---
 
-# spring boot
+## 参考
+[主页](http://projects.spring.io/spring-boot/)
 
-- 将模型（脑子）放到了客户端进行执行
-- 需要系统 ios11
+### 组件
+
+
+####

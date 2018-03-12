@@ -29,13 +29,13 @@ $$  1.02^{365}=1377.4 \over 0.99^{365}=0.03 $$
 - [《项目事例》]({% post_url 2018-02-27-开发流程 %}) , xmind , astash , project , axure , [markdown]({% post_url 2018-03-09-Markdown专题 %}), [jekyll]({% post_url 2018-02-27-Jekyll专题 %})
 
 
-- [《产品事例-appstore》](https://itunes.apple.com/cn/app/%E5%AE%B6%E7%A7%98%E4%B9%A6/id1352891324?mt=8 ), swift , java , node
+- [《产品事例-appstore》](https://itunes.apple.com/cn/app/%E5%AE%B6%E7%A7%98%E4%B9%A6/id1352891324?mt=8 ), [swift]({% post_url 2018-03-09-swift专题 %}), java , node
 
 - cocoapods, [spring boot]({% post_url 2018-03-09-spring-boot专题 %}) , spring cloud
 
 - [coreml]({% post_url 2018-02-07-coreml专题 %})
 
-- mysql , oracle , postgresql
+- mysql , db2, oracle , postgresql
 
 - activiti , drools
 
@@ -48,9 +48,9 @@ $$  1.02^{365}=1377.4 \over 0.99^{365}=0.03 $$
 - hyperledger, ethereum
 
 
-### 项目
-[^1]:Webshpere Portal 自动化测试，手工测试
-[^2]:自动化开发框架 相当于：activti + hibernate，公司测试缺陷系统开发
-[^3]:费用补偿系统，行政办公审批系统，人力招聘候选人管理系统等业务系统
-[^4]:Paas平台，多终端自动化测试平台开发，某互联网O2O业务系统
-[^5]:技术部门管理，负责含有多语言技术，多终端技术的研发部门的管理
+### 项目角色
+[^1]:测试：Webshpere Portal 自动化测试，silktest、robot自动化测试框架 ，jmeter,lr压力测试，手工测试
+[^2]:开发：自动化开发框架OAF-相当于：activti + hibernate，测试缺陷系统开发，hp打印机字体驱动软件程序，Flex+lifecycle审批业务系统开发
+[^3]:项目管理及开发：费用补偿系统，行政办公审批系统，人力招聘候管理系统 ，工资考勤系统， 等系统
+[^4]:架构及开发：Paas平台，多终端自动化测试平台开发，某互联网O2O业务系统，信息交换平台软件
+[^5]:技术负责人：技术部门管理（30人左右），负责含有多语言技术，多终端技术的研发部门的管理
