@@ -10,6 +10,9 @@ permalink: /resume/
 {% endif %}
 
 ### fanto：
+
+基本信息：15+ 工作经验
+
 ![微信](/assets/images/wx_icon.png){:height="100px" width="100px"}
 
 曾从事 测试[^1]，开发[^2]，项目管理[^3]，架构[^4]，技术负责人[^5] 等岗位。
@@ -27,6 +30,16 @@ saySomethingToWorld(who: "fanto", num: 3) { (who) in
 {% endhighlight %}
 
 $$  1.02^{365}=1377.4 \over 0.99^{365}=0.03 $$
+
+
+***
+曾经服务的公司：
+- 某互联网金融公司-- 主要负责后台业务系统构建，和技术团队管理
+- 365好老师 --- 主要负责架构，和数据
+- 文思海辉 --- 公司系统化建设，技术团队管理
+- 和滕软件 --- 主要开发人员
+- IBM（Contract） --- 自动化测试
+- Microsoft(Vendor) --- Winnt测试
 
 
 ***
