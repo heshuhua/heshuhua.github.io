@@ -38,7 +38,7 @@ $$  1.02^{365}=1377.4 \over 0.99^{365}=0.03 $$
 
 - [《产品事例-appstore》](https://itunes.apple.com/cn/app/%E5%AE%B6%E7%A7%98%E4%B9%A6/id1352891324?mt=8 ), [swift]({% post_url 2018-03-09-swift专题 %}), java , node
 
-- cocoapods, [spring boot]({% post_url 2018-03-09-spring-boot专题 %}) , spring cloud
+- cocoapods, [spring boot]({% post_url 2018-03-09-spring-boot专题 %}) , [spring cloud]({% post_url 2018-03-19-SpringCloud专题 %})
 
 - [coreml]({% post_url 2018-02-07-coreml专题 %})
 
