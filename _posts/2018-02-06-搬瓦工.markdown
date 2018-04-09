@@ -1,0 +1,16 @@
+---
+layout: page
+title: 搬瓦工
+date:   2018-02-06 09:00:00 +0800
+categories: skill
+---
+目前的使用状态，使用全局模式，在heroku ，id的验证可以使用。 使用自动模式不可以使用。
+使用http copy proxyshell 在命令行的方式进行使用
+https://www.yfmingo.cn/2016/11/05/bandwagonhost_vpn/
+命令行翻墙
+http://www.cashqian.net/blog/001486989831982332565298e4942a2bb8f56b08f9d2475000
+brew install privoxy
+
+http://www.yinqisen.cn/blog-707.html
+
+nohup sslocal -s 23.105.192.219 -p 16351 -l 1080 -k Brysj180087 -t 600 -m rc4-md5 > /dev/null 2>&1 &
