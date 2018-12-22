@@ -7,4 +7,11 @@ categories: engineering
 virtualbox 的使用---- 记录virtualbox网络设置
 ### 共享硬盘
 安装一个vboxguestaddition，然后添加目录，在共享文件夹的目录添加。
-### 网络
+### 扩展硬盘大小。
+1，在5.2.22版本上，可以对镜像文件进行迁移。可以直接迁移到移动硬盘上。
+2，将盘的空间进行扩展。
+3，在安装的操作系统上，识别新扩展的空间。win7 上，管理，磁盘工具，扩展卷。即可。
+
+https://forums.virtualbox.org/viewtopic.php?f=8&t=55811
+
+### 网络访问
