@@ -15,3 +15,4 @@ virtualbox 的使用---- 记录virtualbox网络设置
 https://forums.virtualbox.org/viewtopic.php?f=8&t=55811
 
 ### 网络访问
+使用网络转发来进行 访问nat方式的虚拟机
