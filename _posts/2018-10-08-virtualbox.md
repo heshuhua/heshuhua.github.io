@@ -16,3 +16,8 @@ https://forums.virtualbox.org/viewtopic.php?f=8&t=55811
 
 ### 网络访问
 使用网络转发来进行 访问nat方式的虚拟机
+
+### 网络设置
+https://www.jianshu.com/p/6a2cec8de3f1
+
+![网络访问](/assets/images/virtual.jpeg "记录想法")
