@@ -20,4 +20,4 @@ https://forums.virtualbox.org/viewtopic.php?f=8&t=55811
 ### 网络设置
 https://www.jianshu.com/p/6a2cec8de3f1
 
-![网络访问](/assets/images/virtual.jpeg "记录想法")
+![网络访问](/assets/images/virtualnet.jpeg "记录想法")
