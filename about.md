@@ -48,11 +48,11 @@ $$  1.02^{365}=1377.4 \over 0.99^{365}=0.03 $$
 
 - openmq , rabbitmq , mule
 
-- docker , k8s
-
 - pentaho kettle , jasper , qlik sense
 
 - hyperledger, ethereum
+
+- [docker]({% post_url 2019-07-14-docker %}) , [k8s]({% post_url 2019-08-18-k8s %})
 
 - [git]({% post_url 2018-02-28-git专题 %})
 
