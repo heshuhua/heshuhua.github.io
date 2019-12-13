@@ -56,6 +56,8 @@ $$  1.02^{365}=1377.4 \over 0.99^{365}=0.03 $$
 
 - [git]({% post_url 2018-02-28-git专题 %})
 
+- [devops]({% post_url 2019-12-10-devops %})
+
 
 ### 项目角色
 [^1]:测试：Webshpere Portal 自动化测试，silktest、robot自动化测试框架 ，jmeter,lr压力测试，手工测试。
