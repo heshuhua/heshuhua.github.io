@@ -33,7 +33,7 @@ $$  1.02^{365}=1377.4 \over 0.99^{365}=0.03 $$
 
 # 工具箱
 
-- [《项目事例》]({% post_url 2018-02-27-开发流程 %}) , [xmind]({% post_url 2019-08-02-xmind %}), [UML_astash]({% post_url 2019-09-09-uml %}) , project , axure , [markdown]({% post_url 2018-03-09-Markdown专题 %}), [jekyll]({% post_url 2018-02-27-Jekyll专题 %})
+- [《项目事例》]({% post_url 2018-02-27-开发流程 %}) , [mind]({% post_url 2019-08-02-xmind %}), [UML]({% post_url 2019-09-09-uml %}) , project , axure , [markdown]({% post_url 2018-03-09-Markdown专题 %}), [jekyll]({% post_url 2018-02-27-Jekyll专题 %})
 
 
 - [《产品事例-appstore》](https://itunes.apple.com/cn/app/%E5%AE%B6%E7%A7%98%E4%B9%A6/id1352891324?mt=8 ), [swift]({% post_url 2018-03-09-swift专题 %}), [java]({% post_url 2018-06-13-java %}) ,[lombok]({% post_url 2019-12-02-lombok %}), node
